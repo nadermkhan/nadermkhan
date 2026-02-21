@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadermkhan" alt="nadermkhan" /></a> </p>
 
-- 🔭 I’m currently working on **AI models fine tuning"
+- 🔭 I’m currently working on **AI models fine tuning**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
